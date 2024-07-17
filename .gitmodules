@@ -1,0 +1,6 @@
+[submodule "server"]
+	path = server
+	url = git@github.com:akankshasainics/crypto_prices_server.git
+[submodule "client"]
+	path = client
+	url = git@github.com:akankshasainics/crypto_prices_client.git
