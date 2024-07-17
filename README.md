@@ -1,5 +1,8 @@
 # Stocks Real Time Prices
 
+## Clone Project
+  git clone --recursive git@github.com:akankshasainics/stock_real_time_prices.git FOLDER_NAME
+
 ## Server Side
 
 ### Prerequisite
@@ -18,12 +21,6 @@
 </ol>
 
 ## Client Side
-
-### Prerequisite
-
-<ul>
-  <li> React JS</li>
-</ul>
 
 ### Steps
 <ol>
